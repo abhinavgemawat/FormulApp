@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
     private Button Trig_btn;
     private Button Physics_btn;
+
     private Button LandA_btn;
 
     @Override
