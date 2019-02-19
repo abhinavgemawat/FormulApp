@@ -9,10 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Tushar" />
         <activity android:name=".Length_Area_page" />
         <activity android:name=".Physics_page" />
         <activity android:name=".Trig_page" />
+        <activity android:name=".quadrix"/>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
